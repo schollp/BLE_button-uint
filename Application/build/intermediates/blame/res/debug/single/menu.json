@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]

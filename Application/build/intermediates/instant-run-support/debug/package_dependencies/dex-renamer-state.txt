@@ -1,0 +1,22 @@
+#Sat Feb 02 11:37:08 CET 2019
+renamed.6=classes2.dex
+renamed.5=classes6.dex
+renamed.4=classes7.dex
+renamed.3=classes5.dex
+renamed.2=classes4.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.6=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b1059560f1841e8fcfd356a995a5884aecd6e5a4
+base.5=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.0_a111ca35adf39f535e071206e65bd258c7ba6be9
+base.4=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.0_23c450a33b02a13e472c16177ced3d17b7914f99
+base.3=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.0_43a37decab6bf5caec677a54ca365e7896c95fee
+base.2=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ff4217bf56e324fa93431b8296a61a88ca123581
+base.1=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ebcd8867df2231ae06a8a189660908f4de8fcebb
+base.0=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_59c5fcfdbc6874c008280c0b565c14392831d37c
+file.6=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b1059560f1841e8fcfd356a995a5884aecd6e5a4\\classes.dex
+file.5=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.0_a111ca35adf39f535e071206e65bd258c7ba6be9\\classes.dex
+file.4=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.0_23c450a33b02a13e472c16177ced3d17b7914f99\\classes.dex
+file.3=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.0_43a37decab6bf5caec677a54ca365e7896c95fee\\classes.dex
+file.2=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ff4217bf56e324fa93431b8296a61a88ca123581\\classes.dex
+file.1=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ebcd8867df2231ae06a8a189660908f4de8fcebb\\classes.dex
+file.0=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_59c5fcfdbc6874c008280c0b565c14392831d37c\\classes.dex

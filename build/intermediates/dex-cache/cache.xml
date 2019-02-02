@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\patri\work_today\02Feb2019\BLE_button-uint\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d75b5f1a5758f754fc919fa6b0a04b92ee94b4e9">
+        <dex dex="C:\Users\patri\work_today\02Feb2019\BLE_button-uint\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a18fa54438960e55cdabf8557795bde76d58192e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\patri\work_today\28Jan2019\BLE_button-master_working_13.12.2018 (2)\BLE_button-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f833cb805a99135e67b489ba0119665b6d529b8">
+        <dex dex="C:\Users\patri\work_today\28Jan2019\BLE_button-master_working_13.12.2018 (2)\BLE_button-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e1ef60af83f16017ba6f14b376619a1e0853419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\patri\work_today\02Feb2019\BLE_button-uint\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\patri\work_today\02Feb2019\BLE_button-uint\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5c270bb421463c366e724d080abd473b7f7d7758\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\patri\work_today\28Jan2019\BLE_button-master_working_13.12.2018 (2)\BLE_button-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\patri\work_today\28Jan2019\BLE_button-master_working_13.12.2018 (2)\BLE_button-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e10b9f3507af49b33a016868dfff56c608f7ea43\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Sat Feb 02 11:37:08 CET 2019
+base.0=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5c270bb421463c366e724d080abd473b7f7d7758
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a18fa54438960e55cdabf8557795bde76d58192e\\classes.dex
+base.1=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a18fa54438960e55cdabf8557795bde76d58192e
+file.0=C\:\\Users\\patri\\work_today\\02Feb2019\\BLE_button-uint\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5c270bb421463c366e724d080abd473b7f7d7758\\classes.dex
