@@ -94,9 +94,9 @@ public class DeviceControlActivity extends Activity {
 
     private EditText liste;
     //private ArrayList arr = new ArrayList();
-    private List<String> arr = new ArrayList<> ( Arrays.asList ( "S1" , "S2" , "S3" , "S4" , "S5" , "S6" , "S7\n" ) );
+    private List<String> arr = new ArrayList<> ( Arrays.asList ( "S1; " , "S2; " , "S3; " , "S4; " , "S5; " , "S6; " , "S7\n" ) );
     private Context context;
-    private String filename = "SampleFile.txt";
+    private String filename = "Sensorvalues.txt";
     private String filepath = "MyFileStorage";
     File myExternalFile;
     private String BLEdata;
@@ -153,8 +153,8 @@ public class DeviceControlActivity extends Activity {
             } else if (BluetoothLeService.ACTION_DATA_AVAILABLE.equals(action)) {
                 //BLEdata = bluetoothGattCharacteristicHM_10.getStringValue(0);
                 BLEdata = intent.getStringExtra(BluetoothLeService.EXTRA_DATA);
-                BLEdata = BLEdata.substring(0, BLEdata.indexOf('\n'));
-                BLEdata= BLEdata.replace(";", "\n");
+                //BLEdata = BLEdata.substring(0, BLEdata.indexOf('\n'));
+                //BLEdata= BLEdata.replace(";", "\n");
                 arr.add(BLEdata);
                 Log.e("novatest", BLEdata);
                 displayData(intent.getStringExtra(BluetoothLeService.EXTRA_DATA));
