@@ -315,7 +315,7 @@ public class BluetoothLeService extends Service {
 
 
 
-            intent.putExtra(EXTRA_DATA, new String(data) + "\n" + stringBuilder.toString());
+            intent.putExtra(EXTRA_DATA, new String(String.valueOf(S1))+"; "+new String(String.valueOf(S2))+"; "+new String(String.valueOf(S3))+"; "+new String(String.valueOf(S4))+"; "+new String(String.valueOf(S5))+"; "+new String(String.valueOf(S6))+"; "+new String(String.valueOf(S7)) + "\n" );
         }
 
         sendBroadcast(intent);
